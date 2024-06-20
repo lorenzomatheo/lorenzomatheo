@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Lorenzo Matheo👋
 
 - 🔭 Hoje trabalho em Back-end
-- 🌱 Aprendendo Python
+- 🌱 Aprendendo Python e me especializando no framework Pandas
 - 📫 Contate-me no email: lorenzo.matheo@hotmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lorenzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lorenzo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Lorenzo-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Lorenzo-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Lorenzo-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Lorenzo-Microsoft Sql Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
