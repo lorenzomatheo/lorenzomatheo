@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lorenzo Matheo👋
 
-- 🔭 Hoje trabalho em Back-end
-- 🌱 Aprendendo Python e me especializando no framework Pandas
+- 🔭 Hoje sou um entusiasta em AI, Agentic AI, Chatbot com RAG e Agentic workflow
+- 🌱 Aprendendo Python e me especializando no framework LangGraph
 - 📫 Contate-me no email: lorenzo.matheo@hotmail.com
 
 <div style="display: inline_block"><br>
